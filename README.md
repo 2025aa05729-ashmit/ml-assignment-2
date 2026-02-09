@@ -111,10 +111,10 @@ ml-assignment-2/
 ## 8. Links
 
 - **GitHub Repository:**  
-  https://github.com/<your-username>/ml-assignment-2
+  https://github.com/2025aa05729-ashmit/ml-assignment-2
 
 - **Live Streamlit App:**  
-  https://<your-app-name>.streamlit.app
+  https://2025aa05729-ml-assignment-2.streamlit.app/
 
 ---
 

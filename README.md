@@ -96,5 +96,36 @@ The application includes the following features:
 ---
 
 ## 7. Project Structure
+ml-assignment-2/
+│-- app.py
+│-- requirements.txt
+│-- README.md
+│
+│-- model/
+│ │-- init.py
+│ │-- train_models.py
 
+
+---
+
+## 8. Links
+
+- **GitHub Repository:**  
+  https://github.com/<your-username>/ml-assignment-2
+
+- **Live Streamlit App:**  
+  https://<your-app-name>.streamlit.app
+
+---
+
+## 9. Execution Environment
+
+The complete assignment was executed on the **BITS Virtual Lab environment**.  
+A screenshot of the execution has been included in the final PDF submission as proof.
+
+---
+
+## 10. Conclusion
+
+This assignment demonstrates an end-to-end machine learning workflow including model development, evaluation using multiple metrics, interactive visualization using Streamlit, and deployment on a cloud platform. Ensemble models such as Random Forest and XGBoost showed superior performance on the chosen dataset.
 

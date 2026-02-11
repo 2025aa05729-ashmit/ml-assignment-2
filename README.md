@@ -100,10 +100,15 @@ ml-assignment-2/
 │-- app.py
 │-- requirements.txt
 │-- README.md
+│-- model_evaluation.py        
+│
+│-- data/
+│   │-- test_data.csv          
 │
 │-- model/
-│ │-- init.py
-│ │-- train_models.py
+│   │-- __init__.py
+│   │-- train_models.py
+
 
 
 ---
@@ -129,3 +134,7 @@ A screenshot of the execution has been included in the final PDF submission as p
 
 This assignment demonstrates an end-to-end machine learning workflow including model development, evaluation using multiple metrics, interactive visualization using Streamlit, and deployment on a cloud platform. Ensemble models such as Random Forest and XGBoost showed superior performance on the chosen dataset.
 
+## Additional Files for Evaluation
+
+- `data/test_data.csv` – Sample test dataset for verifying model predictions.
+- `model_evaluation.py` – Script used to train models and compute evaluation metrics.

@@ -8,7 +8,16 @@ from model.train_models import train_all_models
 st.set_page_config(page_title="ML Assignment 2", layout="wide")
 st.title("ML Assignment 2 – Classification Models Demo")
 
-st.write("Dataset used: Breast Cancer Wisconsin (Diagnostic) (via scikit-learn).")
+st.write("Dataset used: Breast Cancer Wisconsin (Diagnostic).")
+
+st.markdown("### Download Test Data")
+with open("data/test_data.csv", "rb") as f:
+    st.download_button(
+        label="Download test_data.csv",
+        data=f,
+        file_name="test_data.csv",
+        mime="text/csv",
+    )
 
 # Train once per session
 @st.cache_data

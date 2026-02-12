@@ -1,10 +1,11 @@
-# ml-assignment-2
-Problem Statement
-
 # Machine Learning Assignment 2
 **Course:** Machine Learning  
 **Program:** M.Tech (AIML / DSE)  
 **Institution:** BITS Pilani – Work Integrated Learning Programmes  
+
+**BITS ID:** 2025AA05729
+**Name:** ASHMIT BHANDARI
+
 
 ---
 
@@ -96,6 +97,7 @@ The application includes the following features:
 ---
 
 ## 7. Project Structure
+```
 ml-assignment-2/
 │-- app.py
 │-- requirements.txt
@@ -108,7 +110,7 @@ ml-assignment-2/
 │-- model/
 │   │-- __init__.py
 │   │-- train_models.py
-
+```
 
 
 ---
@@ -119,7 +121,7 @@ ml-assignment-2/
   https://github.com/2025aa05729-ashmit/ml-assignment-2
 
 - **Live Streamlit App:**  
-  https://2025aa05729-ml-assignment-2.streamlit.app/
+  https://2025aa05729.streamlit.app/
 
 ---
 

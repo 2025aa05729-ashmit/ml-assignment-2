@@ -6,7 +6,7 @@ from sklearn.metrics import classification_report, confusion_matrix, roc_auc_sco
 from model.train_models import train_all_models
 
 st.set_page_config(page_title="ML Assignment 2", layout="wide")
-st.title("ML Assignment 2 – Classification Models Demo")
+st.title("ML Assignment 2 - 2025AA05729")
 
 st.write("Dataset used: Breast Cancer Wisconsin (Diagnostic).")
 
